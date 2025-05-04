@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CRUD Mahasiswa</string>
+
+    <!-- Titles -->
+    <string name="title_home">Daftar Mahasiswa</string>
+    <string name="title_tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="title_edit_mahasiswa">Edit Mahasiswa</string>
+    <string name="title_detail_mahasiswa">Detail Mahasiswa</string>
+    <string name="title_tentang">Tentang Aplikasi</string>
+
+    <!-- Hints -->
+    <string name="hint_search">Cari mahasiswa...</string>
+    <string name="hint_nama">Nama Mahasiswa</string>
+    <string name="hint_nim">NIM</string>
+    <string name="hint_jurusan">Jurusan</string>
+
+    <!-- Buttons -->
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_kembali">Kembali</string>
+
+    <!-- Messages -->
+    <string name="msg_sukses_tambah">Data mahasiswa berhasil ditambahkan</string>
+    <string name="msg_sukses_edit">Data mahasiswa berhasil diperbarui</string>
+    <string name="msg_sukses_hapus">Data mahasiswa berhasil dihapus</string>
+    <string name="msg_gagal">Terjadi kesalahan, silakan coba lagi</string>
+    <string name="msg_konfirmasi_hapus">Apakah Anda yakin ingin menghapus data ini?</string>
+    <string name="msg_data_tidak_lengkap">Semua data harus diisi</string>
+
+    <!-- Labels -->
+    <string name="label_nim">NIM:</string>
+    <string name="label_nama">Nama:</string>
+    <string name="label_jurusan">Jurusan:</string>
+
+    <!-- Bottom Navigation -->
+    <string name="menu_home">Home</string>
+    <string name="menu_add">Tambah</string>
+    <string name="menu_about">Tentang</string>
+
+    <!-- About -->
+    <string name="about_description">Aplikasi CRUD Mahasiswa v1.0\nDibuat dengan Android Studio menggunakan Java</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_ya">Ya</string>
+    <string name="dialog_tidak">Tidak</string>
+    <string name="dialog_ok">OK</string>
+</resources>

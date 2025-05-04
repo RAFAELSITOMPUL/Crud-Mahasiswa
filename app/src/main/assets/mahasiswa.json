@@ -1,0 +1,52 @@
+[
+  {
+    "nim": "12345678",
+    "nama": "Andi Saputra",
+    "jurusan": "Informatika"
+  },
+  {
+    "nim": "87654321",
+    "nama": "Budi Santoso",
+    "jurusan": "Sistem Informasi"
+  },
+  {
+    "nim": "23456789",
+    "nama": "Citra Dewi",
+    "jurusan": "Teknik Komputer"
+  },
+  {
+    "nim": "34567890",
+    "nama": "Dedi Kurniawan",
+    "jurusan": "Teknik Elektro"
+  },
+  {
+    "nim": "45678901",
+    "nama": "Erna Puspita",
+    "jurusan": "Manajemen Informatika"
+  },
+  {
+    "nim": "56789012",
+    "nama": "Faisal Ahmad",
+    "jurusan": "Ilmu Komunikasi"
+  },
+  {
+    "nim": "67890123",
+    "nama": "Gita Pratiwi",
+    "jurusan": "Akuntansi"
+  },
+  {
+    "nim": "78901234",
+    "nama": "Hadi Purnomo",
+    "jurusan": "Manajemen Bisnis"
+  },
+  {
+    "nim": "89012345",
+    "nama": "Indah Nur",
+    "jurusan": "Desain Komunikasi Visual"
+  },
+  {
+    "nim": "90123456",
+    "nama": "Joko Widodo",
+    "jurusan": "Ilmu Politik"
+  }
+]
